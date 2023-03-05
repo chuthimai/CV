@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa311201-fabf-4808-9e54-038036a5a51c" name="Changes" comment="change link color&#10;change size with rem">
+    <list default="true" id="aa311201-fabf-4808-9e54-038036a5a51c" name="Changes" comment="đặt vị trí z-index của header cao hơn so với các phần tử khác để nổi lên trên">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/other.html" beforeDir="false" afterPath="$PROJECT_DIR$/other.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677944311718</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="đặt vị trí z-index của header cao hơn so với các phần tử khác để nổi lên trên">
+      <created>1677984805310</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677984805310</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +96,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix font size of p from 20 to default" />
     <MESSAGE value="change link color&#10;change size with rem" />
-    <option name="LAST_COMMIT_MESSAGE" value="change link color&#10;change size with rem" />
+    <MESSAGE value="đặt vị trí z-index của header cao hơn so với các phần tử khác để nổi lên trên" />
+    <option name="LAST_COMMIT_MESSAGE" value="đặt vị trí z-index của header cao hơn so với các phần tử khác để nổi lên trên" />
   </component>
 </project>
