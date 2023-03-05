@@ -42,6 +42,7 @@ a:hover{
     background-color: #A084DC;
     width: 100%;
     height: 70px;
+    z-index: 999; /* đặt vị trí z-index của header cao hơn so với các phần tử khác */
     -webkit-transform: translate3d(0,0,0);
 }
 
@@ -58,14 +59,14 @@ a:hover{
 .cloud-right{
     position: absolute;
     right: 10%;
-    high: 10%;
+    width: 20%;
 
 }
 
 .cloud-left{
     position: absolute;
     left: 15%;
-    high: 10%;
+    width: 17%;
 }
 
 .skill-text{
