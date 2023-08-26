@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="aa311201-fabf-4808-9e54-038036a5a51c" name="Changes" comment="đặt vị trí z-index của header cao hơn so với các phần tử khác để nổi lên trên">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/other.html" beforeDir="false" afterPath="$PROJECT_DIR$/other.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/chumai/PycharmProjects/CV&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/chumai/PycharmProjects/CV"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -79,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677984805310</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="create new CV&#10;&#10;- cover website">
+      <created>1693039729076</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693039729076</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +106,7 @@
     <MESSAGE value="fix font size of p from 20 to default" />
     <MESSAGE value="change link color&#10;change size with rem" />
     <MESSAGE value="đặt vị trí z-index của header cao hơn so với các phần tử khác để nổi lên trên" />
-    <option name="LAST_COMMIT_MESSAGE" value="đặt vị trí z-index của header cao hơn so với các phần tử khác để nổi lên trên" />
+    <MESSAGE value="create new CV&#10;&#10;- cover website" />
+    <option name="LAST_COMMIT_MESSAGE" value="create new CV&#10;&#10;- cover website" />
   </component>
 </project>
