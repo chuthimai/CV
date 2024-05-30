@@ -4,74 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa311201-fabf-4808-9e54-038036a5a51c" name="Changes" comment="add prize information">
-      <change afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/ie8.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/ie9 - Copy.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/ie9.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/main.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/noscript.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/67a30392a9c4d42ed248c6b1404813d02df84637/_functions.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/67a30392a9c4d42ed248c6b1404813d02df84637/_mixins.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/67a30392a9c4d42ed248c6b1404813d02df84637/_skel.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/67a30392a9c4d42ed248c6b1404813d02df84637/_vars.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/7e789d186c055861f24133e1b9885bb81c49b2aa/_copyright.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/7e789d186c055861f24133e1b9885bb81c49b2aa/_footer.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/7e789d186c055861f24133e1b9885bb81c49b2aa/_main.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/7e789d186c055861f24133e1b9885bb81c49b2aa/_wrapper.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/cf0bea95a132a2d2ad494712665ec6344019307b/_button.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/cf0bea95a132a2d2ad494712665ec6344019307b/_form.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/cf0bea95a132a2d2ad494712665ec6344019307b/_icon.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/cf0bea95a132a2d2ad494712665ec6344019307b/_list.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/fdfbe966239fea8d85b20cc3e91511822b0ce989/_page.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/.sass-cache/fdfbe966239fea8d85b20cc3e91511822b0ce989/_typography.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/css/ie8.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/css/ie9.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/css/images/overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/css/noscript.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/js/PIE.htc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/js/html5shiv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/js/respond.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/base/_page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/base/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_icon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/components/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/ie8.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/ie9.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/layout/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/layout/_main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/layout/_wrapper.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/libs/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/libs/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/libs/_skel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/libs/_vars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/assets/sass/noscript.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/cloud.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mountain.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/other.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
-    </list>
+    <list default="true" id="aa311201-fabf-4808-9e54-038036a5a51c" name="Changes" comment="new cv" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,15 +40,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "new__CV",
-    "last_opened_file_path": "/Users/chumai/PycharmProjects/CV/static/images"
+    "last_opened_file_path": "/Users/maichu/PycharmProjects/CV/app"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/file" />
       <recent name="$PROJECT_DIR$/static/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/file" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -156,15 +92,50 @@
       <option name="project" value="LOCAL" />
       <updated>1677984805310</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new cv">
+      <option name="closed" value="true" />
+      <created>1717087416075</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717087416075</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="new_CV" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="new_CV" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -174,6 +145,7 @@
     <MESSAGE value="fix font size of p from 20 to default" />
     <MESSAGE value="change link color&#10;change size with rem" />
     <MESSAGE value="đặt vị trí z-index của header cao hơn so với các phần tử khác để nổi lên trên" />
-    <option name="LAST_COMMIT_MESSAGE" value="đặt vị trí z-index của header cao hơn so với các phần tử khác để nổi lên trên" />
+    <MESSAGE value="new cv" />
+    <option name="LAST_COMMIT_MESSAGE" value="new cv" />
   </component>
 </project>

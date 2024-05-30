@@ -1,50 +1,63 @@
-/*-------------------TAG SELECTION----------------------*/
-
-h1{
-    font-size: 50px;
-    font-family: great vibes, none;
-    margin-block-end: 0;
+nav {
+    background-color: #275932ea;
+    position: sticky;
+    top: 0;
 }
 
-/*-------------------CLASS SELECTION----------------------*/
-
-.static-background{
-    background-image: url("static/images/bg.jpg");
-    background-size: 180% 180%;
+nav > a{
+    display: inline-block;
+    padding: 1rem;
+    width: auto;
+    text-align: center;
+    font-size: 1rem;
+    color:white;
+    text-decoration:none;
 }
 
-.gradient-background {
-  background: linear-gradient(300deg, #C3F8FF, #FFCBCB, #D9D7F1, #ABD9FF, #B6E388);
-  background-size: 180% 180%;
-  animation: gradient-animation 8s ease infinite;
+nav > .trans:hover{
+    background-color:#333;
 }
 
-@keyframes gradient-animation {
-  0% {
-    background-position: 0% 25%;
-  }
-  25% {
-    background-position: 25% 50%;
-  }
-  50% {
-    background-position: 50% 75%;
-  }
-  75% {
-    background-position: 75% 100%;
-  }
-  100% {
-    background-position: 0% 25%;
-  }
+nav > .select {
+    background-color:#333;
+}
+
+li{
+    color: #bebaba;
+}
+
+#ProjectInSchool a {
+    color: #636060;
+}
+
+#ProjectInSchool a:hover {
+    color: #ff7496;
+}
+
+
+
+.background {
+    background-image: url("../static/assests/css/images/overlay.png"), -moz-linear-gradient(60deg, rgba(99, 96, 96, 0.15) 10%, rgba(0, 0, 0, 0.3)),url("../static/images/bg.jpg");
+    background-image: url("../static/assests/css/images/overlay.png"), -webkit-linear-gradient(60deg, rgba(99, 96, 96, 0.15) 10%, rgba(0, 0, 0, 0.3)),url("../static/images/bg.jpg");
+    background-image: url("../static/assests/css/images/overlay.png"), -ms-linear-gradient(60deg, rgba(99, 96, 96, 0.15) 10%, rgba(0, 0, 0, 0.3)),url("../static/images/bg.jpg");
+    background-image: url("../static/assests/css/images/overlay.png"), linear-gradient(145deg, rgba(45, 45, 45, 0.63) 5%, rgba(0, 0, 0, 0.3)),url("../static/images/bg.jpg");
+    background-size: 100% 100%;
+}
+
+.footer-bg {
+    background-color: #275932ea;
+    color: #ffffff;
 }
 
 .icon-square {
-  width: 7rem;
-  height: 7rem;
-  border-radius: 0.75rem;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 0.75rem;
 }
 
-.profile-img {
-  height: 400px;
+.card-contact {
+    background: #e1f3d8e2;
+    border-radius: 4px;
 }
 
 .tableForm{
@@ -56,29 +69,27 @@ h1{
     border-spacing: 15px;
 }
 
-.btn {
-  -webkit-border-radius: 5;
-  -moz-border-radius: 5;
-  border-radius: 5px;
-  font-family: Arial;
-  color: #000000;
-  font-size: 20px;
-  background: linear-gradient(100deg, #FFCBCB, #D9D7F1, #ABD9FF);
-  border: solid black 3px;
-  text-decoration: none;
+.btn-email {
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 5px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #275932ea;
+    border: solid black 0px;
+    text-decoration: none;
+    padding: 0.5rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.btn:hover {
-  background: linear-gradient(100deg, #FFCBCB, #ABD9FF, #B6E388);
-  text-decoration: none;
+.btn-email:hover {
+    background: #333;
+    box-shadow: 0 4px 8px 0 rgba(38, 66, 20, 0.80), 0 10px 40px 0 rgba(38, 66, 20, 0.79);
 }
 
 .cardColor{
-  background: linear-gradient(95deg, #FFCBCB, #ABD9FF, #B6E388);
-  background-size: 180% 180%;
-  animation: gradient-animation 18s ease infinite;
+    background: linear-gradient(95deg, #FFCBCB, #ABD9FF, #B6E388);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
 }
-
-
-
-
