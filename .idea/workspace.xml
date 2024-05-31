@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa311201-fabf-4808-9e54-038036a5a51c" name="Changes" comment="new cv" />
+    <list default="true" id="aa311201-fabf-4808-9e54-038036a5a51c" name="Changes" comment="new cv">
+      <change afterPath="$PROJECT_DIR$/static/images/chat_app/admin/add_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/chat_app/admin/drawer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/chat_app/admin/manage_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/chat_app/change_password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/chat_app/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/chat_app/nomal_user/drawer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,16 +49,17 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "new__CV",
-    "last_opened_file_path": "/Users/maichu/PycharmProjects/CV/app"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/maichu/PycharmProjects/CV/static/images/chat_app/nomal_user"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images/chat_app/nomal_user" />
+      <recent name="$PROJECT_DIR$/static/images/chat_app/admin" />
+      <recent name="$PROJECT_DIR$/static/images/chat_app" />
       <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/file" />
-      <recent name="$PROJECT_DIR$/static/images" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/file" />
