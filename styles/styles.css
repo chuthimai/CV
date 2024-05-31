@@ -1,0 +1,95 @@
+nav {
+    background-color: #275932ea;
+    position: sticky;
+    top: 0;
+}
+
+nav > a{
+    display: inline-block;
+    padding: 1rem;
+    width: auto;
+    text-align: center;
+    font-size: 1rem;
+    color:white;
+    text-decoration:none;
+}
+
+nav > .trans:hover{
+    background-color:#333;
+}
+
+nav > .select {
+    background-color:#333;
+}
+
+li{
+    color: #bebaba;
+}
+
+#ProjectInSchool a {
+    color: #636060;
+}
+
+#ProjectInSchool a:hover {
+    color: #ff7496;
+}
+
+
+
+.background {
+    background-image: url("../static/assests/css/images/overlay.png"), -moz-linear-gradient(60deg, rgba(99, 96, 96, 0.15) 10%, rgba(0, 0, 0, 0.3)),url("../static/images/bg.jpg");
+    background-image: url("../static/assests/css/images/overlay.png"), -webkit-linear-gradient(60deg, rgba(99, 96, 96, 0.15) 10%, rgba(0, 0, 0, 0.3)),url("../static/images/bg.jpg");
+    background-image: url("../static/assests/css/images/overlay.png"), -ms-linear-gradient(60deg, rgba(99, 96, 96, 0.15) 10%, rgba(0, 0, 0, 0.3)),url("../static/images/bg.jpg");
+    background-image: url("../static/assests/css/images/overlay.png"), linear-gradient(145deg, rgba(45, 45, 45, 0.63) 5%, rgba(0, 0, 0, 0.3)),url("../static/images/bg.jpg");
+    background-size: 100% 100%;
+}
+
+.footer-bg {
+    background-color: #275932ea;
+    color: #ffffff;
+}
+
+.icon-square {
+    width: 7rem;
+    height: 7rem;
+    border-radius: 0.75rem;
+}
+
+.card-contact {
+    background: #e1f3d8e2;
+    border-radius: 4px;
+}
+
+.tableForm{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: left;
+    width: 60%;
+    border-collapse: separate;
+    border-spacing: 15px;
+}
+
+.btn-email {
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 5px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #275932ea;
+    border: solid black 0px;
+    text-decoration: none;
+    padding: 0.5rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn-email:hover {
+    background: #333;
+    box-shadow: 0 4px 8px 0 rgba(38, 66, 20, 0.80), 0 10px 40px 0 rgba(38, 66, 20, 0.79);
+}
+
+.cardColor{
+    background: linear-gradient(95deg, #FFCBCB, #ABD9FF, #B6E388);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}

@@ -4,20 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa311201-fabf-4808-9e54-038036a5a51c" name="Changes" comment="đặt vị trí z-index của header cao hơn so với các phần tử khác để nổi lên trên">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
-    </list>
+    <list default="true" id="aa311201-fabf-4808-9e54-038036a5a51c" name="Changes" comment="new cv" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="9fa2c87eaaba1356db9041b2779c4f9cd795e69c" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,14 +36,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/chumai/PycharmProjects/CV"
+    "git-widget-placeholder": "new__CV",
+    "last_opened_file_path": "/Users/maichu/PycharmProjects/CV/app"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/file" />
+      <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/file" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -81,22 +92,50 @@
       <option name="project" value="LOCAL" />
       <updated>1677984805310</updated>
     </task>
-    <task id="LOCAL-00005" summary="create new CV&#10;&#10;- cover website">
-      <created>1693039729076</created>
+    <task id="LOCAL-00005" summary="new cv">
+      <option name="closed" value="true" />
+      <created>1717087416075</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1693039729076</updated>
+      <updated>1717087416075</updated>
     </task>
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="new_CV" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="new_CV" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -106,7 +145,7 @@
     <MESSAGE value="fix font size of p from 20 to default" />
     <MESSAGE value="change link color&#10;change size with rem" />
     <MESSAGE value="đặt vị trí z-index của header cao hơn so với các phần tử khác để nổi lên trên" />
-    <MESSAGE value="create new CV&#10;&#10;- cover website" />
-    <option name="LAST_COMMIT_MESSAGE" value="create new CV&#10;&#10;- cover website" />
+    <MESSAGE value="new cv" />
+    <option name="LAST_COMMIT_MESSAGE" value="new cv" />
   </component>
 </project>
