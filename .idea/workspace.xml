@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa311201-fabf-4808-9e54-038036a5a51c" name="Changes" comment="new cv">
-      <change afterPath="$PROJECT_DIR$/static/images/chat_app/admin/add_user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/chat_app/admin/drawer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/chat_app/admin/manage_user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/chat_app/change_password.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/chat_app/login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/chat_app/nomal_user/drawer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="aa311201-fabf-4808-9e54-038036a5a51c" name="Changes" comment="update cv 1/2025" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +29,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="2LxpHC3gD7pBQVVzQXuWvxhYbGb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,8 +42,11 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/maichu/PycharmProjects/CV/static/images/chat_app/nomal_user"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/maichu/PycharmProjects/CV/static/images/chat_app/nomal_user",
+    "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -63,6 +59,8 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/file" />
+      <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/static/avarta" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -111,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717087416075</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update cv 1/2025">
+      <option name="closed" value="true" />
+      <created>1737767357619</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737767357619</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +163,7 @@
     <MESSAGE value="change link color&#10;change size with rem" />
     <MESSAGE value="đặt vị trí z-index của header cao hơn so với các phần tử khác để nổi lên trên" />
     <MESSAGE value="new cv" />
-    <option name="LAST_COMMIT_MESSAGE" value="new cv" />
+    <MESSAGE value="update cv 1/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="update cv 1/2025" />
   </component>
 </project>
